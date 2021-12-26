@@ -2,8 +2,8 @@ FROM openjdk
 
 WORKDIR /test
 
-COPY hager.java /test
+COPY maha.java /test
 
-RUN javac hager.java
+RUN javac maha.java
 
-CMD java hager
+CMD java maha
