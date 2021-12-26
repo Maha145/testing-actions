@@ -19,6 +19,6 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: Maha145/nginx:latest
+          tags: maha145/nginx:latest
 
 
