@@ -20,8 +20,3 @@ jobs:
         with:
           push: true
           tags: maha152/nginx:latest
-
-
-
-
-
